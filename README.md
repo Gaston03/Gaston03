@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I’m Gaston Pascal Tonguino, a passionate software engineer focused on building scalable web and mobile applications.<br>I enjoy designing systems that connect people and data seamlessly, with a strong interest in automation, cloud computing, and intelligent software design.<br><br>💡 What I worked on:<br><br>Building workflow automation tools and website builders using React, Next.js, and Node.js<br>Developing robust APIs with Spring Boot, PostgreSQL, and PostGIS<br>Integrating third-party services like AWS, Firebase, and Stripe<br><br>🚀 Goals:<br>To create innovative software products and eventually build my own IT company.<br><br>📫 Let’s connect: [https://www.linkedin.com/in/gaston-pascal-tonguino03]
+Hi, I’m Gaston Pascal Tonguino, a passionate software engineer focused on building scalable web and mobile applications.<br>I enjoy designing systems that connect people and data seamlessly, with a strong interest in automation, cloud computing, and intelligent software design.<br><br>💡 What I worked on:
+- Building workflow automation tools and website builders.
+- Developing robust APIs with Spring Boot, PostgreSQL, and PostGIS.
+- Integrating third-party services like AWS, Firebase, and Stripe.
+
+🚀 Goals:<br>To create innovative software products and eventually build my own IT company.<br><br>📫 Let’s connect: [https://www.linkedin.com/in/gaston-pascal-tonguino03]
 
 
 ## 🌐 Socials:
