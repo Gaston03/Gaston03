@@ -33,4 +33,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gaston03/Gaston03/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gaston03/gaston03/output/snake.svg" alt="Snake animation" />
