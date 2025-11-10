@@ -4,7 +4,7 @@ Hi, I’m Gaston Pascal Tonguino, a passionate software engineer focused on buil
 - Developing robust APIs with Spring Boot, PostgreSQL, and PostGIS.
 - Integrating third-party services like AWS, Firebase, and Stripe.
 
-🚀 Goals:<br>To create innovative software products and eventually build my own IT company.<br><br>📫 Let’s connect: pgastong03@gmail.com
+🚀 Goals:<br>To create innovative software products and eventually build my own IT company.<br><br>📫 Let’s connect: https://pgastong-dev.vercel.app
 
 
 ## 🌐 Socials:
